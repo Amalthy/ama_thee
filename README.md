@@ -17,13 +17,10 @@
 <li>you know who, </li>
   <li> pick-a-boo. </li> 
 <br>
-<div><a><img src="ThisisAmaTheeDesign.png"></a> </div>
+<div><a><img src="thisisamatheedesign_1_original.png"></a> </div>
 </p>
-
 
 </div>
 </body>
 </html>
-
-
 
