@@ -4,8 +4,8 @@
   <li> ama_thee, </li>
 <li>you know who, </li>
   <li> pick-a-boo.</li> <br>
-All you need to know
-<a><img src= href= 'ThisisAmaTheeDesign.png'></a>
+All you need to know <br>
+<a><img src='ThisisAmaTheeDesign.png'></a>
 </p>
 
 
