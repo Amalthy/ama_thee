@@ -4,7 +4,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title> This is Me </title>
+  <title> hello, this is... </title>
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
   <meta name="description" content="Description">
   <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
@@ -17,7 +17,7 @@
 <li>you know who, </li>
   <li> pick-a-boo. </li> 
 <br>
-<div><a><img src="thisisamatheedesign_1_original.png"></a> </div>
+<div a><img src="thisisamatheedesign_1_original.png"></a> </div>
 </p>
 
 </div>
